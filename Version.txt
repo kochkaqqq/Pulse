@@ -1,1 +1,1 @@
-6 https://github.com/kochkaqqq/Pulse/releases/download/release/Pulse.zip
+5 https://github.com/kochkaqqq/Pulse/releases/download/release/Pulse.zip
